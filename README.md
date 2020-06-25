@@ -43,3 +43,10 @@ The other two variables of Income Verifiability and Homeownership Status are
 covered later on using regression models. I've made sure to use different color
 palettes for each quality variable to make sure it is clear that they're
 different between plots.
+
+## References
+https://stackoverflow.com
+https://matplotlib.org
+https://seaborn.pydata.org
+https://www.prosper.com
+https://www.markdownguide.org/cheat-sheet/
